@@ -1,5 +1,6 @@
-*.py linguist-language = Python
-*.project linguist-language = Python
-*.pydevproject linguist-language = Python
-*.pyc linguist-language = Python
-*.* linguist-language = Python
+*.py linguist-language=python
+*.project linguist-language=python
+*.pydevproject linguist-language=python
+*.prefs linguist-language=python
+*.js linguist-language=python
+*.xml linguist-language=python
