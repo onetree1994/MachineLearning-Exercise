@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\DecisionTree\com.python.pydev.analysis\v2_indexcache
+decision_tree.__init__|1500473115958084000|F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\DecisionTree\decision_tree\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=decision_tree.__init__
+-- END DICTIONARY
+-- START TREE 1
+12
+all|1|allElectronicsData!11@
+clf|1|clf!11@
+dum|2|dummyX!11@dummyY!11@
+f|1|f!11@
+fea|1|featureList!11@
+hea|1|header!11@
+lab|2|labelList!11@labels!11@
+new|1|newX!11@
+pre|1|predictY!11@
+rea|1|reader!11@
+row|1|rowDict!11@
+vec|1|vec!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

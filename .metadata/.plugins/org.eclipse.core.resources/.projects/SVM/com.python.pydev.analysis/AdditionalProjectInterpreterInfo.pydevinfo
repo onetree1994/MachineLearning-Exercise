@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\SVM\com.python.pydev.analysis\v2_indexcache
+SVM.__init__|1500906306604131000|F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\SVM\SVM\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=SVM.__init__
+-- END DICTIONARY
+-- START TREE 1
+9
+X|1|X!11@
+Y|1|Y!11@
+a|1|a!11@
+b|1|b!11@
+clf|1|clf!11@
+w|1|w!11@
+xx|1|xx!11@
+yy|1|yy!11@
+yy_|2|yy_up!11@yy_down!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\number_classifier\com.python.pydev.analysis\v2_indexcache
+implement.__init__|1501139702255627000|E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\number_classifier\implement\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=implement.__init__
+2=NeuralNetwork
+3=NeuralNetwork.__init__
+-- END DICTIONARY
+-- START TREE 1
+16
+X|0|
+fil|0|
+img|0|
+lim|0|
+log|2|logistic!10@logistic_deriv!10@
+nX|0|
+neu|1|NeuralNetwork!9@
+nn|0|
+nsa|0|
+pca|0|
+pic|0|
+rgb|0|
+sam|0|
+tan|2|tanh_deriv!10@tanh!10@
+tes|0|
+y|0|
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!2&10@
+act|2|activation!3&11@activation_deriv!3&11@
+fit|1|fit!2&10@
+pre|1|predict!2&10@
+wei|1|weights!3&11@
+-- END TREE

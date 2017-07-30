@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\HandwriteNum_OpenDataSet_NeuralNetwork\com.python.pydev.analysis\v2_indexcache
+implement.__init__|1501139702255627000|E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\HandwriteNum_OpenDataSet_NeuralNetwork\implement\__init__.py
+handwrite.__init__|1501149995106981000|E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\HandwriteNum_OpenDataSet_NeuralNetwork\handwrite\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=implement.__init__
+1=handwrite.__init__
+3=NeuralNetwork
+4=NeuralNetwork.__init__
+-- END DICTIONARY
+-- START TREE 1
+14
+X|1|X!11@
+dig|1|digits!11@
+ins|1|ins!11@
+lab|2|labels_test!11@labels_train!11@
+log|2|logistic!18@logistic_deriv!18@
+neu|1|NeuralNetwork!17@
+new|1|newX!11@
+nn|1|nn!11@
+o|1|o!11@
+pca|1|pca!11@
+pre|1|predictions!11@
+tan|2|tanh_deriv!18@tanh!18@
+x_t|1|X_train!11@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!3&18@
+act|2|activation!4&19@activation_deriv!4&19@
+fit|1|fit!3&18@
+pre|1|predict!3&18@
+wei|1|weights!4&19@
+-- END TREE

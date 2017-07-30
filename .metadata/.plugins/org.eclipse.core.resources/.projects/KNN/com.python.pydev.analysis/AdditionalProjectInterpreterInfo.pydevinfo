@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\KNN\com.python.pydev.analysis\v2_indexcache
+K-Nearest_Neighbor.__init__|1500550691106152000|F:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\KNN\K-Nearest_Neighbor\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=K-Nearest_Neighbor.__init__
+-- END DICTIONARY
+-- START TREE 1
+9
+euc|1|euclideanDistance!10@
+get|3|getAccuracy!10@getResponse!10@getNeighbors!10@
+k|1|k!11@
+loa|1|loadDataset!10@
+nei|1|neighbors!11@
+pre|1|predictions!11@
+res|1|result!11@
+tes|1|testSet!11@
+tra|1|trainingSet!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

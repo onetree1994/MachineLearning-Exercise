@@ -1,0 +1,6 @@
+import numpy as np
+
+def fitSLR(x, y):
+    n = len(x)
+    dinominator = 0 # ·ÖÄ¸
+    numerator = 0   # ·Ö×Ó

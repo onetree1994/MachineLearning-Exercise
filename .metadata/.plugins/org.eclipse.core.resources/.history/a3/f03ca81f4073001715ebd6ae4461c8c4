@@ -1,0 +1,15 @@
+import numpy as np
+
+def fitSLR(x, y):
+    n = len(x)
+    denominator = 0 # ·ÖÄ¸
+    numerator = 0   # ·Ö×Ó
+    x_mean = np.mean(x)
+    y_mean = np.mean(y)
+    for i in range(n):
+        numerator += (x[i] - x_mean)*(y[i] - y_mean)
+        denominator += (x[i] - x_mean)**2
+    
+    b1 = numerator / float(denominator)
+    b0 = y_mean - b1*x_mean
+    print(b1,'x + ',b0,' = y')

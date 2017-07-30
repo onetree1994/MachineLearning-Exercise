@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\MultipleRegression\com.python.pydev.analysis\v2_indexcache
+multiple_regression.__init__|1501305421737890000|E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\MultipleRegression\multiple_regression\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=multiple_regression.__init__
+-- END DICTIONARY
+-- START TREE 1
+7
+X|1|X!11@
+X2|1|X2!11@
+reg|1|regr!11@
+tem|2|tempX2!11@tempX!11@
+x_a|1|X_add!11@
+y|1|y!11@
+y2|1|y2!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

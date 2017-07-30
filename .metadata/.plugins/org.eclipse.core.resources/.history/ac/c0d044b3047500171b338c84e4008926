@@ -1,0 +1,13 @@
+import numpy as np
+import random
+
+
+def genData(numPoints, bias, variance):
+    x = np.zeros(shape = (numPoints, 2))
+    y = np.zeros(shape = numPoints)
+    # straight line
+    for i in range(0, numPoints):
+        x[i][0] = 1
+        x[i][1] = 1
+        y[i] = (i + bias) + random.uniform(0, 1) * variance
+    return x, y

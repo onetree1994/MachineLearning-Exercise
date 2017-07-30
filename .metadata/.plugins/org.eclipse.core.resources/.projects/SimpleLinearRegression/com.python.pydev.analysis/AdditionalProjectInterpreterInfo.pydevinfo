@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\SimpleLinearRegression\com.python.pydev.analysis\v2_indexcache
+SumOfSquares.__init__|1501210856179434000|E:\学习\硕1第1学期\深度学习基础介绍机器学习\eclipse\SimpleLinearRegression\SumOfSquares\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=SumOfSquares.__init__
+-- END DICTIONARY
+-- START TREE 1
+5
+b|1|b!11@
+fit|1|fitSLR!10@
+pre|1|predict!10@
+x|1|x!11@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,9 @@
+from implement import NeuralNetwork
+import numpy as np
+
+X = np.array([[0,0],[0,1],[1,0],[1,1]])
+y = np.array([0,1,1,0])    
+nn = NeuralNetwork([2, 2, 1])
+nn.fit(X, y, epochs = 1)
+for i in range(0, X.shape[0]):
+    print(nn.predict(X[i]))

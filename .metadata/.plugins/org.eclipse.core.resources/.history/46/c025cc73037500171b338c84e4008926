@@ -1,0 +1,5 @@
+
+
+# 数据生成函数
+def genData(numPoints, bias, variance):
+    print(numPoints, bias, variance)

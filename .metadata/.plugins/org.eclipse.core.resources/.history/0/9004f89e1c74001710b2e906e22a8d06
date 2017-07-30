@@ -1,0 +1,27 @@
+from sklearn import datasets, linear_model
+import numpy as np
+# X:里程，往返次数 y:行驶时间
+X = [[100, 50, 100, 100, 50, 80, 75, 65, 90, 100],[4, 3, 4, 2, 2, 2, 3, 4, 3, 2]]
+y = [9.3, 4.8, 8.9, 6.5, 4.2, 6.2, 7.4, 6, 7.6, 9.3]
+X2 = X
+tempX = []
+for i in range(len(X[0])):
+    tempX.append([X[0][i], X[1][i]])
+X = tempX
+X = np.atleast_2d(X)
+y = np.atleast_1d(y)
+print('X:\n', X)
+print('y:\n', y)
+
+# 训练多元回归模型
+regr = linear_model.LinearRegression()
+regr.fit(X, y)
+print('coefficients:', regr.coef_)
+print('intercept:', regr.intercept_)
+
+print('\npredict [102, 6]:', regr.predict([[102, 6]]))
+
+# 当存在类型变量的输入，例如存在车型，做如下处理
+X_add = [[0,1,0,0,0,0,0,1,1,0],[1,0,1,0,0,1,1,0,0,1],[0,0,0,1,1,0,0,0,0,0]]
+X2.append(X_add[0])
+print(X2)
