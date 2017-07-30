@@ -194,7 +194,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_MgwGUHUDEeedBPPXTYDo1A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="logistic_regression" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; partName=&quot;logistic_regression&quot; title=&quot;logistic_regression&quot; tooltip=&quot;LogisticRegression/logistic_regression/__init__.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/LogisticRegression/logistic_regression/__init__.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;63&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; partName=&quot;logistic_regression&quot; title=&quot;logistic_regression&quot; tooltip=&quot;LogisticRegression/logistic_regression/__init__.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/LogisticRegression/logistic_regression/__init__.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;449&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.python.pydev.editor.PythonEditor</tags>
           <tags>removeOnHide</tags>
@@ -336,7 +336,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_B8iWxXKcEeewXPZB7pHbRw" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev/icons/pydev_package_explorer.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.python.pydev.navigator.ui.PydevPackageExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.python.pydev"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1499841240311&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;E:/&#x5b66;&#x4e60;/&#x7855;1&#x7b2c;1&#x5b66;&#x671f;/&#x6df1;&#x5ea6;&#x5b66;&#x4e60;&#x57fa;&#x7840;&#x4ecb;&#x7ecd;&#x673a;&#x5668;&#x5b66;&#x4e60;/eclipse/LogisticRegression&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;E:/&#x5b66;&#x4e60;/&#x7855;1&#x7b2c;1&#x5b66;&#x671f;/&#x6df1;&#x5ea6;&#x5b66;&#x4e60;&#x57fa;&#x7840;&#x4ecb;&#x7ecd;&#x673a;&#x5668;&#x5b66;&#x4e60;/eclipse/LogisticRegression/logistic_regression&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;E:/&#x5b66;&#x4e60;/&#x7855;1&#x7b2c;1&#x5b66;&#x671f;/&#x6df1;&#x5ea6;&#x5b66;&#x4e60;&#x57fa;&#x7840;&#x4ecb;&#x7ecd;&#x673a;&#x5668;&#x5b66;&#x4e60;/eclipse/DecisionTree&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;E:/&#x5b66;&#x4e60;/&#x7855;1&#x7b2c;1&#x5b66;&#x671f;/&#x6df1;&#x5ea6;&#x5b66;&#x4e60;&#x57fa;&#x7840;&#x4ecb;&#x7ecd;&#x673a;&#x5668;&#x5b66;&#x4e60;/eclipse/RemoteSystemsTempFiles&quot;/>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1499841240311&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
       <menus xmi:id="_B8iWxnKcEeewXPZB7pHbRw" elementId="org.python.pydev.navigator.view">
@@ -356,7 +356,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_B8iXEXKcEeewXPZB7pHbRw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-EIrwHUCEeedBPPXTYDo1A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_B8oj8HKcEeewXPZB7pHbRw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iwF94HUlEeeAlITRQCyf0w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_B8oj8HKcEeewXPZB7pHbRw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_B8iXHnKcEeewXPZB7pHbRw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -386,7 +386,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_B8iXZHKcEeewXPZB7pHbRw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_-EMWInUCEeedBPPXTYDo1A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_B8ojk3KcEeewXPZB7pHbRw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iwMrkHUlEeeAlITRQCyf0w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_B8ojk3KcEeewXPZB7pHbRw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_B8iXb3KcEeewXPZB7pHbRw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3198,7 +3198,7 @@
   <addons xmi:id="_B8olqHKcEeewXPZB7pHbRw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_B8olqXKcEeewXPZB7pHbRw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_B8olqnKcEeewXPZB7pHbRw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_8bYlQHUCEeedBPPXTYDo1A" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_B8olrHKcEeewXPZB7pHbRw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_B8olrXKcEeewXPZB7pHbRw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_B8olrnKcEeewXPZB7pHbRw" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
