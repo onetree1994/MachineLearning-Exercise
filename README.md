@@ -1,2 +1,2 @@
 # MachineLearning-Exercise
-Some CODE of ML write with python.
+Some CODE of ML written in python.
